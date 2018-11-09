@@ -1,2 +1,6 @@
 # git-assignment-1
-Repository for the first COMP163 git project
+
+* fetch
+* push
+* remotes
+* branches
