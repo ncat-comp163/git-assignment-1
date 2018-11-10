@@ -1,0 +1,2 @@
+Hello dfoulser@
+Write a HelloWorld.java program in a class named HelloWorld.  Your code should print the message "Hello world."
