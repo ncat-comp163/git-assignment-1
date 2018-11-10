@@ -1,0 +1,22 @@
+COMP 163 roster by section, last in first out
+Instructions:
+1. Add your name to the correct section for your Tuesday lab.
+  a. Section 1 meets at 8:00 AM
+  b. Section 2 meets at 10:00 AM
+  c. Section 3 meets at 12:00 noon
+2. Add your name below the line at the TOP of the list for your section.
+3. If you are lucky, this will generate a merge conflict when you try to 'git commit' and 'git pull'
+  a. If so, edit the file locally to resolve the conflict and retry your push.
+
+SECTION 1 (8:00 AM)
+--------------------
+
+
+SECTION 2 (10:00 AM)
+--------------------
+
+
+SECTION 3 (12:00 noon)
+--------------------
+
+
